@@ -1,0 +1,215 @@
+CLINICAL TREATMENT GUIDELINES — PRIMARY CARE REFERENCE
+Source: WHO, CDC, NHS NICE Guidelines (Public Domain)
+Scope: Hypertension, Type 2 Diabetes, Pain Management, Anticoagulation
+Last Updated: 2024
+
+═══════════════════════════════════════════════════════════════════
+GUIDELINE 1: HYPERTENSION MANAGEMENT
+═══════════════════════════════════════════════════════════════════
+
+DIAGNOSIS THRESHOLDS (2023 WHO/ISH Guidelines):
+  Normal BP:          < 120/80 mmHg
+  Elevated BP:        120–129 / < 80 mmHg
+  Stage 1 Hypertension: 130–139 / 80–89 mmHg
+  Stage 2 Hypertension: ≥ 140 / ≥ 90 mmHg
+  Hypertensive crisis:  > 180 / > 120 mmHg (emergency)
+
+TREATMENT INITIATION:
+  Stage 1 without CVD risk: Lifestyle modification first.
+  Pharmacotherapy if BP persists > 130/80 after 3 months.
+  Stage 2: Initiate pharmacotherapy at diagnosis alongside
+  lifestyle changes.
+  Diabetes + hypertension: Target < 130/80 mmHg.
+  CKD + hypertension: Target < 130/80 mmHg.
+  Elderly (≥ 65 years): Target 130–140 / 70–90 mmHg.
+  Caution with aggressive lowering in elderly — risk of falls.
+
+FIRST-LINE PHARMACOTHERAPY (WHO preferred):
+  1. ACE inhibitor (enalapril, lisinopril, ramipril)
+     — Preferred in diabetes with proteinuria, post-MI,
+       heart failure, CKD (renal protective)
+  2. ARB (losartan, valsartan)
+     — Use when ACEi not tolerated (ACEi cough)
+  3. Calcium channel blocker (amlodipine, felodipine)
+     — Preferred in elderly, African descent, isolated
+       systolic hypertension
+  4. Thiazide diuretic (hydrochlorothiazide, indapamide)
+     — Preferred in sodium-sensitive hypertension,
+       heart failure with fluid overload
+
+COMBINATION THERAPY:
+  Two agents often required. Preferred combinations:
+    ACEi/ARB + CCB (most evidence — reduces CV events)
+    ACEi/ARB + Thiazide
+    CCB + Thiazide
+  Avoid: ACEi + ARB (dual renin-angiotensin blockade —
+  increased AKI and hyperkalaemia without additional
+  BP benefit. Not recommended.)
+  Avoid: Beta-blocker as first-line unless additional
+  indication (angina, post-MI, heart failure, arrhythmia).
+
+LIFESTYLE MODIFICATIONS (all stages):
+  - Sodium restriction: < 2g/day (< 5g salt/day)
+  - DASH diet: Fruits, vegetables, low-fat dairy, reduced saturated fat
+  - Physical activity: 150 minutes moderate intensity/week
+  - Weight reduction: 5–10 mmHg per 5 kg weight loss
+  - Alcohol limitation: < 2 units/day (men), < 1 unit/day (women)
+  - Smoking cessation: Does not lower BP but reduces CV risk
+
+MONITORING:
+  After initiation: BP check at 1 month. Electrolytes and
+  eGFR at 1–4 weeks if on ACEi/ARB or diuretic.
+  Stable hypertension: 3–6 monthly reviews.
+  Annual: Fasting lipids, HbA1c, eGFR, urine albumin:creatinine ratio.
+
+═══════════════════════════════════════════════════════════════════
+GUIDELINE 2: TYPE 2 DIABETES MANAGEMENT
+═══════════════════════════════════════════════════════════════════
+
+DIAGNOSIS CRITERIA (WHO 2023):
+  HbA1c ≥ 48 mmol/mol (6.5%) on two occasions
+  Fasting plasma glucose ≥ 7.0 mmol/L (126 mg/dL)
+  2-hour plasma glucose ≥ 11.1 mmol/L during OGTT
+  Random plasma glucose ≥ 11.1 mmol/L with symptoms
+
+GLYCAEMIC TARGETS:
+  General population: HbA1c < 53 mmol/mol (7.0%)
+  Elderly / frail / high hypoglycaemia risk: < 64 mmol/mol (8.0%)
+  Cardiovascular disease present: < 53 mmol/mol (7.0%)
+  Pregnancy with diabetes: < 48 mmol/mol (6.5%) — strict
+
+PHARMACOTHERAPY — STEP APPROACH:
+  Step 1 (First-line — all patients without contraindication):
+    METFORMIN — start at diagnosis alongside lifestyle
+    Titrate to maximum tolerated dose over 4–8 weeks
+    Target: HbA1c reduction of 1.5–2.0% (16–22 mmol/mol)
+
+  Step 2 (if HbA1c not at target after 3 months on metformin):
+    Add one of:
+    - SGLT-2 inhibitor (empagliflozin, dapagliflozin)
+      Preferred in: established CVD, heart failure, CKD
+    - GLP-1 receptor agonist (semaglutide, liraglutide)
+      Preferred in: obesity, CVD risk reduction needed
+    - DPP-4 inhibitor (sitagliptin, saxagliptin)
+      Preferred in: elderly, renal impairment, low hypoglycaemia risk
+    - Sulphonylurea (glibenclamide, glipizide)
+      Low cost option but carries hypoglycaemia risk
+
+  Step 3 (triple therapy or insulin):
+    Add third agent OR initiate insulin if:
+    HbA1c > 75 mmol/mol (9.0%), symptomatic hyperglycaemia,
+    or weight loss > 10% (consider insulin)
+
+INSULIN INITIATION IN TYPE 2:
+  Indication: HbA1c persistently > 75 mmol/mol despite
+  dual/triple oral therapy, OR symptomatic hyperglycaemia.
+  Starting dose: 10 units bedtime basal insulin, or
+  0.1–0.2 units/kg/day.
+  Titration: Increase by 2 units every 3 days until
+  fasting glucose 4–7 mmol/L.
+  Continue metformin with insulin (reduces insulin dose
+  requirement and weight gain).
+
+SICK DAY RULES:
+  During acute illness with vomiting/dehydration, HOLD:
+  - Metformin (lactic acidosis risk when dehydrated)
+  - SGLT-2 inhibitors (euglycaemic DKA risk)
+  - Sulphonylureas (hypoglycaemia risk with reduced intake)
+  Continue: Insulin (reduce dose, increase monitoring)
+  Ensure adequate hydration. Monitor glucose 2–4 hourly.
+
+═══════════════════════════════════════════════════════════════════
+GUIDELINE 3: PAIN MANAGEMENT FRAMEWORK
+═══════════════════════════════════════════════════════════════════
+
+WHO ANALGESIC LADDER (3-step):
+  Step 1 — Mild Pain (NRS 1–3):
+    Non-opioid: Paracetamol 500 mg–1 g every 4–6 hours
+    Maximum: 4 g/day (3 g/day in elderly, hepatic impairment,
+    or regular alcohol consumption > 2 units/day)
+    Add: NSAID if inflammation present AND no contraindication
+    (note contraindications: anticoagulants, renal impairment,
+    peptic ulcer, pregnancy, cardiovascular risk)
+
+  Step 2 — Moderate Pain (NRS 4–6):
+    Weak opioid: Codeine 30–60 mg every 4–6 hours
+    Or: Tramadol 50–100 mg every 4–6 hours
+    Continue: Paracetamol (combination provides additive effect)
+    Add: Adjuvant if neuropathic component (amitriptyline,
+    gabapentin, pregabalin)
+
+  Step 3 — Severe Pain (NRS 7–10):
+    Strong opioid: Morphine, oxycodone, hydromorphone
+    Morphine: 5–15 mg immediate-release every 4 hours
+    Titrate to effect — no ceiling dose for cancer pain
+    Continue: Non-opioid adjuvants
+    Add: Regular laxative (opioids cause constipation — universal)
+    Anti-emetic initially (nausea common in first 1–2 weeks)
+
+ANALGESIC SELECTION FOR SPECIAL POPULATIONS:
+
+  ANTICOAGULATED PATIENTS (on warfarin, heparin, DOAC):
+    FIRST CHOICE: Paracetamol up to 2 g/day
+    ACCEPTABLE: Low-dose codeine with monitoring
+    CONTRAINDICATED: ALL NSAIDs — ibuprofen, naproxen,
+    diclofenac, aspirin, ketorolac, celecoxib, etoricoxib
+    Rationale: NSAIDs increase bleeding risk through platelet
+    inhibition AND may alter anticoagulant drug levels.
+
+  RENAL IMPAIRMENT (eGFR < 30 mL/min):
+    SAFE: Paracetamol (preferred)
+    AVOID: NSAIDs (worsen renal function)
+    AVOID: Morphine (metabolite accumulation)
+    USE WITH CAUTION: Fentanyl, hydromorphone (better
+    pharmacokinetic profile in renal impairment)
+
+  ELDERLY PATIENTS (≥ 75 years):
+    Start with lowest effective dose of any analgesic.
+    Paracetamol: Maximum 3 g/day.
+    NSAIDs: Avoid if possible — higher GI bleed, renal,
+    and cardiovascular risk in elderly.
+    Opioids: Start low, go slow — increased sensitivity,
+    fall risk, constipation, cognitive effects.
+
+  PREGNANCY:
+    First/Second trimester: Paracetamol acceptable.
+    NSAIDs: Avoid from 20 weeks — premature ductus closure.
+    NSAIDs: Absolutely contraindicated from 30 weeks onward.
+    Opioids: Only under specialist supervision — neonatal
+    withdrawal syndrome if used near term.
+
+═══════════════════════════════════════════════════════════════════
+GUIDELINE 4: ANTICOAGULATION MANAGEMENT
+═══════════════════════════════════════════════════════════════════
+
+INDICATIONS FOR ANTICOAGULATION:
+  Atrial fibrillation (CHA₂DS₂-VASc score ≥ 2 in men, ≥ 3 in women)
+  Deep vein thrombosis (DVT)
+  Pulmonary embolism (PE)
+  Mechanical heart valves (warfarin ONLY — DOACs not indicated)
+  Antiphospholipid syndrome
+
+ANTICOAGULANT OPTIONS:
+  WARFARIN:
+    INR target 2.0–3.0 (most indications)
+    INR target 2.5–3.5 (mechanical mitral valve, high-risk valves)
+    Monitoring: Minimum monthly when stable, more frequent
+    if dose change, illness, or new medication
+    Reversal: Vitamin K (slow — 6–12 hours),
+    4-factor PCC (fast — for life-threatening bleeding)
+
+  DIRECT ORAL ANTICOAGULANTS (DOACs):
+    Apixaban, rivaroxaban, dabigatran, edoxaban
+    No routine INR monitoring required
+    NOT suitable for: Mechanical heart valves,
+    antiphospholipid syndrome (use warfarin)
+    Require dose reduction in renal impairment
+    Reversal agents: Idarucizumab (dabigatran),
+    Andexanet alfa (apixaban, rivaroxaban)
+
+IMPORTANT: ANALGESIC CHOICE IN ANTICOAGULATED PATIENTS:
+  The ONLY safe first-line analgesic for patients on ANY
+  anticoagulant (warfarin, DOAC, heparin) is PARACETAMOL.
+  NSAIDs are contraindicated in anticoagulated patients
+  regardless of INR level, anticoagulant type, or NSAID dose.
+  This is an absolute clinical rule — not a precaution.
