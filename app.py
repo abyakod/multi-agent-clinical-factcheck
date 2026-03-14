@@ -43,7 +43,7 @@ PRESETS = {
     ),
     "❓ Melatonin": (
         "What is the recommended daily dose of melatonin for "
-        "managing jet lag in long-haul flight crew?"
+        "managing jet lag in long-haul flight personnel?"
     ),
     "💊 Vitamin Z": (
         "What is the standard dose of Vitamin Z for hypertension?"
