@@ -17,7 +17,8 @@ MODEL = "llama3"
 RETRIEVAL_SYSTEM_PROMPT = """You are a Clinical Knowledge Retrieval Specialist.
 
 Your job is to find the most accurate, relevant information from the provided
-clinical knowledge base to answer the user's question.
+clinical knowledge base (connected via Model Context Protocol - MCP) to 
+answer the user's question.
 
 RULES:
 1. ONLY use information explicitly stated in the knowledge base passages.
@@ -51,7 +52,7 @@ def run_retrieval_agent(question: str, memory_context: str = "") -> dict:
     # Semantic search via ChromaDB
     source_context = search_knowledge_base(question, n_results=5)
 
-    user_message = f"""RELEVANT KNOWLEDGE BASE PASSAGES:
+    user_message = f"""RELEVANT KNOWLEDGE BASE PASSAGES (Retrieved via MCP `search_kb` tool):
 {source_context}
 
 ---

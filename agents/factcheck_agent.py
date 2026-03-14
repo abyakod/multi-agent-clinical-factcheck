@@ -73,7 +73,7 @@ def run_factcheck_agent(question: str, answer: str, source_context: str) -> dict
         dict with keys: response, overall_verdict, supported_count,
                         contradicted_count, unverifiable_count
     """
-    user_message = f"""SOURCE DOCUMENTS (ground truth):
+    user_message = f"""SOURCE DOCUMENTS (Ground truth, retrieved via MCP `get_full_docs` tool):
 {source_context}
 
 ---

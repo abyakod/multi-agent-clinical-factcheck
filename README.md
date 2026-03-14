@@ -61,11 +61,12 @@ python app.py
 
 The system uses a stateful Graph (LangGraph) to coordinate specialized agents:
 
-1. **Router**: Classifies task type (knowledge lookup vs memory recall).
-2. **Retrieval**: Searches ChromaDB for clinical context.
-3. **Fact-Checker**: Adversarially verifies every claim in the answer.
-4. **Judge**: Scores the response on Faithfulness, Relevance, and Completeness.
-5. **Memory**: Updates session context with the verified result.
+1. **MCP Tool Layer**: A dedicated `mcp_server.py` (FastMCP) serving clinical knowledge tools.
+2. **Router**: Classifies task type (knowledge lookup vs memory recall).
+3. **Retrieval**: Searches ChromaDB for clinical context via MCP.
+4. **Fact-Checker**: Adversarially verifies every claim in the answer via MCP documents.
+5. **Judge**: Scores the response on Faithfulness, Relevance, and Completeness.
+6. **Memory**: Updates session context with the verified result.
 
 ---
 
@@ -75,6 +76,7 @@ The dashboard is built using a **Google Agent Developer Kit (ADK)** pattern:
 - **Chat Interface**: Left-hand side for clinical conversation.
 - **Event Stream**: Right-hand side showing real-time timestamps and emoji-prefixed agent logs.
 - **Agent Cards**: Top row showing execution status (⏳ Waiting → 🔄 Running → ✅ Done).
+- **Execution Flow Map**: A dynamic Mermaid diagram highlighting the path taken through the LangGraph in real-time.
 - **Deep-Dive Tabs**: Fact-check reports, memory state, and quality score history.
 
 ---
@@ -82,8 +84,9 @@ The dashboard is built using a **Google Agent Developer Kit (ADK)** pattern:
 ## Project Structure
 
 ```
-multiagent/
+multi-agent-production-stack/
 ├── app.py                        ← Gradio UI (Google ADK style)
+├── mcp_server.py                 ← FastMCP Server implementation
 ├── graph/
 │   ├── state.py                  ← LangGraph State definition
 │   ├── orchestrator.py           ← Logic & conditional routing
@@ -95,7 +98,7 @@ multiagent/
 ├── memory/
 │   └── memory_manager.py         ← Short + long term memory
 ├── tools/
-│   └── knowledge_base_tool.py    ← ChromaDB vector store manager
+│   └── knowledge_base_tool.py    ← Vector store logic (MCP backend)
 ├── knowledge_base/               ← Text-based clinical documents
 ├── requirements.txt
 └── README.md
