@@ -1,0 +1,255 @@
+WHO ESSENTIAL MEDICINES — CLINICAL REFERENCE GUIDE
+Source: WHO Model List of Essential Medicines, 23rd Edition (2023)
+Classification: Public Domain
+
+═══════════════════════════════════════════════════════════════════
+SECTION 1: CARDIOVASCULAR MEDICINES
+═══════════════════════════════════════════════════════════════════
+
+WARFARIN (Anticoagulant)
+Indications: Prevention and treatment of thromboembolic disorders,
+atrial fibrillation, mechanical heart valves, deep vein thrombosis,
+pulmonary embolism.
+Standard Dose: 2–10 mg/day orally, adjusted by INR monitoring.
+Target INR: 2.0–3.0 for most indications; 2.5–3.5 for mechanical
+heart valves.
+Contraindications: Active bleeding, severe hepatic impairment,
+pregnancy (first and third trimester), uncontrolled hypertension,
+recent neurosurgery or ophthalmologic surgery.
+Critical Drug Interactions:
+  - NSAIDs (including ibuprofen, naproxen, aspirin): SEVERELY
+    INCREASES bleeding risk. Concurrent use contraindicated unless
+    benefit clearly outweighs risk. NSAIDs inhibit platelet function
+    AND can increase warfarin plasma levels, leading to supratherapeutic
+    INR and life-threatening haemorrhage.
+  - Amiodarone: Significantly potentiates warfarin effect.
+    Reduce warfarin dose by 30–50% and monitor INR closely.
+  - Antibiotics (metronidazole, ciprofloxacin, fluconazole):
+    Inhibit warfarin metabolism — increase INR monitoring frequency.
+  - Vitamin K-rich foods (spinach, kale, broccoli): Reduce warfarin
+    effect — advise consistent dietary intake.
+Monitoring: INR every 1–4 weeks once stable. More frequent if dose
+change, illness, or new medication introduced.
+WHO Essential Medicine: Yes — List since 1977.
+
+───────────────────────────────────────────────────────────────────
+
+ATENOLOL (Beta-Blocker)
+Indications: Hypertension, angina pectoris, acute myocardial
+infarction, cardiac arrhythmias, heart failure (with caution).
+Standard Dose: Hypertension: 25–100 mg once daily. Angina: 50–100 mg
+once daily. Maximum 200 mg/day.
+Contraindications: Cardiogenic shock, uncontrolled heart failure,
+second or third degree AV block, severe bradycardia (HR < 45 bpm),
+sick sinus syndrome, severe peripheral arterial disease, untreated
+phaeochromocytoma.
+Critical Drug Interactions:
+  - Calcium channel blockers (verapamil, diltiazem): Additive
+    negative chronotropic and inotropic effects — risk of severe
+    bradycardia, AV block, and cardiac arrest. Avoid concurrent IV use.
+  - Clonidine: Abrupt withdrawal of clonidine during beta-blocker
+    therapy can cause severe rebound hypertension.
+  - Insulin and oral hypoglycaemics: Beta-blockers mask tachycardia
+    (a key hypoglycaemia warning sign). Use with extreme caution
+    in insulin-dependent diabetics.
+Special Populations: Reduce dose in renal impairment (CrCl < 35
+mL/min). Use with caution in asthma — risk of bronchospasm.
+WHO Essential Medicine: Yes.
+
+───────────────────────────────────────────────────────────────────
+
+AMLODIPINE (Calcium Channel Blocker)
+Indications: Hypertension, chronic stable angina, vasospastic angina.
+Standard Dose: 5–10 mg once daily. Start at 2.5 mg in elderly or
+hepatic impairment.
+Contraindications: Cardiogenic shock, unstable angina (except
+vasospastic), haemodynamically significant aortic stenosis.
+Critical Drug Interactions:
+  - Simvastatin: Amlodipine increases simvastatin plasma levels
+    significantly. Do not exceed simvastatin 20 mg/day when combined
+    with amlodipine — risk of myopathy and rhabdomyolysis.
+  - Cyclosporin: Amlodipine increases cyclosporin levels —
+    monitor levels and adjust dose.
+  - CYP3A4 inhibitors (ketoconazole, ritonavir): Increase
+    amlodipine plasma concentration — monitor for hypotension.
+WHO Essential Medicine: Yes — added 2019.
+
+═══════════════════════════════════════════════════════════════════
+SECTION 2: ANALGESICS AND ANTI-INFLAMMATORY MEDICINES
+═══════════════════════════════════════════════════════════════════
+
+IBUPROFEN (NSAID — Non-Steroidal Anti-Inflammatory Drug)
+Indications: Mild to moderate pain, fever, inflammatory conditions
+(rheumatoid arthritis, osteoarthritis), dysmenorrhoea.
+Standard Dose:
+  Adults: 200–400 mg orally every 4–6 hours. Maximum 1200 mg/day
+  (OTC); up to 3200 mg/day under medical supervision.
+  Children (6 months–12 years): 5–10 mg/kg every 6–8 hours.
+  Maximum 40 mg/kg/day.
+Contraindications:
+  - Active or history of peptic ulcer disease or GI bleeding.
+  - Severe renal impairment (eGFR < 30 mL/min).
+  - Severe hepatic impairment.
+  - Third trimester of pregnancy — premature closure of ductus
+    arteriosus and foetal renal dysfunction.
+  - Concurrent anticoagulant therapy (ABSOLUTE CONTRAINDICATION
+    with warfarin — see warfarin entry).
+  - History of NSAID-induced asthma, urticaria, or rhinitis.
+Critical Drug Interactions:
+  - Warfarin: ABSOLUTE — concurrent use causes severely elevated
+    bleeding risk through dual mechanism: platelet inhibition
+    and increased warfarin bioavailability. Documented cases of
+    fatal gastrointestinal haemorrhage.
+  - ACE Inhibitors / ARBs: NSAIDs reduce antihypertensive effect
+    and increase risk of acute kidney injury — the "triple whammy"
+    combination (NSAID + ACEi/ARB + diuretic) is associated with
+    acute renal failure.
+  - Lithium: NSAIDs increase lithium levels by reducing renal
+    clearance — risk of lithium toxicity.
+  - Methotrexate: NSAIDs reduce renal methotrexate clearance —
+    risk of methotrexate toxicity and bone marrow suppression.
+WHO Essential Medicine: Yes.
+
+───────────────────────────────────────────────────────────────────
+
+MORPHINE (Opioid Analgesic)
+Indications: Severe pain — cancer pain, post-surgical, acute MI,
+palliative care. Acute pulmonary oedema.
+Standard Dose:
+  Oral immediate-release: 5–15 mg every 4 hours.
+  IV/SC: 2.5–5 mg every 4 hours. Titrate to effect.
+  Modified-release oral: 12-hourly dosing once stable daily
+  requirement established.
+Contraindications: Acute respiratory depression, raised intracranial
+pressure (with head injury), paralytic ileus, acute abdomen (before
+diagnosis), MAO inhibitor use within 14 days.
+Critical Drug Interactions:
+  - MAO inhibitors (phenelzine, tranylcypromine, selegiline):
+    LIFE-THREATENING serotonin syndrome and CNS excitation.
+    Minimum 14-day washout required.
+  - Benzodiazepines (diazepam, lorazepam, alprazolam): Additive
+    CNS and respiratory depression. FDA Black Box Warning — combined
+    use associated with respiratory arrest and death.
+  - Alcohol: Additive CNS depression and respiratory depression.
+  - Naltrexone / Naloxone: Precipitates acute withdrawal in
+    opioid-dependent patients.
+Special Populations: Reduce dose by 50% in renal impairment —
+active metabolite (morphine-6-glucuronide) accumulates.
+WHO Essential Medicine: Yes — core analgesic since 1977.
+
+═══════════════════════════════════════════════════════════════════
+SECTION 3: DIABETES MEDICINES
+═══════════════════════════════════════════════════════════════════
+
+METFORMIN (Biguanide — First-line Type 2 Diabetes)
+Indications: Type 2 diabetes mellitus — first-line pharmacotherapy.
+Prevention of Type 2 diabetes in high-risk patients.
+Standard Dose:
+  Initial: 500 mg twice daily with meals, or 850 mg once daily.
+  Titration: Increase by 500 mg weekly to minimise GI side effects.
+  Maintenance: 1500–2000 mg/day in divided doses.
+  Maximum: 3000 mg/day (limited by GI tolerance, not efficacy).
+Contraindications:
+  - eGFR < 30 mL/min — risk of lactic acidosis.
+  - eGFR 30–45 mL/min — use with caution, reduce dose.
+  - Acute or chronic metabolic acidosis, including diabetic
+    ketoacidosis.
+  - Severe hepatic impairment — lactic acidosis risk.
+  - Iodinated contrast media — hold metformin 48 hours before
+    and after IV contrast in patients with eGFR < 60 mL/min.
+  - Acute conditions causing dehydration or tissue hypoxia
+    (sepsis, severe infection, acute MI).
+Critical Drug Interactions:
+  - Alcohol: Increases lactic acidosis risk — advise against
+    regular heavy alcohol consumption.
+  - Topiramate, zonisamide: May increase metformin levels.
+  - Carbonic anhydrase inhibitors: Increase lactic acidosis risk.
+Monitoring: eGFR at baseline and annually. Vitamin B12 levels
+every 2–3 years — metformin reduces B12 absorption.
+WHO Essential Medicine: Yes.
+
+───────────────────────────────────────────────────────────────────
+
+INSULIN (Regular Human Insulin)
+Indications: Type 1 diabetes mellitus (mandatory). Type 2 diabetes
+when oral agents insufficient. Diabetic ketoacidosis. Hyperosmolar
+hyperglycaemic state. Hyperkalaemia (with glucose).
+Standard Dose: Highly individualised — based on blood glucose
+monitoring, carbohydrate intake, activity, illness.
+  Typical starting dose (Type 2): 0.1–0.2 units/kg/day.
+  DKA protocol: 0.1 units/kg/hour IV infusion.
+Critical Drug Interactions:
+  - Beta-blockers (atenolol, metoprolol, propranolol): Mask
+    tachycardia warning sign of hypoglycaemia. Non-selective
+    beta-blockers also impair glycogenolysis — prolonging
+    hypoglycaemia. Use with extreme caution.
+  - Corticosteroids: Significantly raise blood glucose — insulin
+    dose increase required during steroid therapy.
+  - Alcohol: Potentiates hypoglycaemic effect — patients must not
+    skip meals when drinking alcohol.
+  - Thiazolidinediones (pioglitazone): Additive glucose-lowering —
+    hypoglycaemia risk, weight gain, fluid retention.
+Storage: Unopened vials: refrigerate 2–8°C. Once opened: room
+temperature (< 25°C) for up to 28 days. Never freeze.
+WHO Essential Medicine: Yes — since original 1977 list.
+
+═══════════════════════════════════════════════════════════════════
+SECTION 4: ANTIBIOTICS
+═══════════════════════════════════════════════════════════════════
+
+AMOXICILLIN (Aminopenicillin)
+Indications: Community-acquired pneumonia, otitis media, sinusitis,
+urinary tract infections, H. pylori eradication (in combination),
+Lyme disease, dental infections.
+Standard Dose:
+  Adults: 250–500 mg three times daily, or 875 mg twice daily.
+  Severe infections: 1 g three times daily.
+  Children: 25–50 mg/kg/day in divided doses.
+  Renal impairment (CrCl < 30): Increase dosing interval.
+Contraindications: Penicillin hypersensitivity. Cross-reactivity
+with cephalosporins in patients with severe penicillin allergy
+(approx. 1–2% cross-reactivity rate).
+Critical Drug Interactions:
+  - Warfarin: Amoxicillin can increase INR — monitor closely.
+  - Methotrexate: Reduces methotrexate renal clearance — toxicity risk.
+  - Oral contraceptives: Limited evidence of reduced efficacy —
+    advise additional contraception during course.
+  - Allopurinol: Significantly increases risk of skin rash.
+WHO Essential Medicine: Yes.
+
+═══════════════════════════════════════════════════════════════════
+SECTION 5: ACE INHIBITORS
+═══════════════════════════════════════════════════════════════════
+
+ENALAPRIL (ACE Inhibitor)
+Indications: Hypertension, heart failure (all stages), diabetic
+nephropathy, prevention of cardiovascular events in high-risk patients,
+left ventricular dysfunction post-MI.
+Standard Dose:
+  Hypertension: 5–40 mg once daily. Start 2.5 mg in elderly,
+  sodium-depleted, or renal impairment.
+  Heart failure: Start 2.5 mg twice daily. Target 10–20 mg twice daily.
+Contraindications:
+  - History of ACE inhibitor-induced angioedema (ABSOLUTE).
+  - Bilateral renal artery stenosis.
+  - Pregnancy — ALL trimesters (fetotoxic and teratogenic from
+    second trimester).
+  - Concurrent use with aliskiren in patients with diabetes
+    or eGFR < 60 mL/min.
+  - Concurrent use with sacubitril/valsartan — 36-hour washout
+    required due to angioedema risk.
+Critical Drug Interactions:
+  - Potassium supplements / Potassium-sparing diuretics (spironolactone,
+    amiloride): SEVERE hyperkalaemia risk. ACE inhibitors reduce
+    aldosterone and raise serum potassium — adding exogenous potassium
+    or potassium-retaining agents can cause life-threatening
+    hyperkalaemia, cardiac arrhythmia, and cardiac arrest.
+    Monitor potassium closely. Avoid routine co-prescription without
+    documented indication and regular electrolyte monitoring.
+  - NSAIDs: Triple whammy — NSAID + ACEi + diuretic associated
+    with acute kidney injury. Avoid in elderly and volume-depleted.
+  - Lithium: ACE inhibitors reduce lithium clearance — lithium
+    toxicity risk.
+Monitoring: eGFR and serum potassium at baseline, 1–2 weeks after
+initiation or dose change, then every 6 months when stable.
+WHO Essential Medicine: Yes.

@@ -1,0 +1,195 @@
+DRUG-DRUG INTERACTIONS — CLINICAL SAFETY REFERENCE
+Source: DrugBank Open Data (CC BY 4.0) + DDInter Database
+Severity Classification: SEVERE | MODERATE | MILD
+Last Updated: 2024
+
+SEVERITY DEFINITIONS:
+  SEVERE   — Life-threatening or permanent damage possible.
+             Combination generally contraindicated.
+  MODERATE — Significant risk requiring dose adjustment,
+             enhanced monitoring, or timing separation.
+  MILD     — Minor clinical effect. Usually manageable.
+
+═══════════════════════════════════════════════════════════════════
+SEVERE INTERACTIONS — CONTRAINDICATED OR USE ONLY WITH EXTREME CAUTION
+═══════════════════════════════════════════════════════════════════
+
+INTERACTION 001: WARFARIN + IBUPROFEN (or any NSAID)
+Severity: SEVERE
+Mechanism: Dual mechanism — (1) NSAIDs inhibit platelet aggregation,
+impairing primary haemostasis. (2) NSAIDs (especially ibuprofen)
+competitively displace warfarin from plasma protein binding sites
+(albumin), increasing free warfarin concentration and INR.
+Additionally, NSAIDs cause gastric mucosal damage, increasing GI
+bleed risk independent of coagulation status.
+Clinical Effect: Significantly elevated INR, GI haemorrhage,
+intracranial bleeding. Fatal outcomes documented.
+Management: AVOID concurrent use. If unavoidable (short course
+only, under supervision): use lowest effective NSAID dose,
+add proton pump inhibitor, monitor INR every 1–2 days.
+Alternative analgesic: Paracetamol (acetaminophen) is the
+preferred analgesic for patients on warfarin — minimal effect
+on INR at standard doses (up to 2g/day). Note: High-dose
+paracetamol (>2g/day) can modestly increase INR — monitor.
+
+───────────────────────────────────────────────────────────────────
+
+INTERACTION 002: MORPHINE + BENZODIAZEPINES
+Severity: SEVERE
+Drugs involved: Morphine, oxycodone, codeine, tramadol, fentanyl
++ Diazepam, lorazepam, alprazolam, clonazepam, temazepam
+Mechanism: Additive and synergistic CNS and respiratory depression.
+Both drug classes suppress brainstem respiratory centres through
+independent but additive pathways (mu-opioid receptors and
+GABA-A receptors respectively).
+Clinical Effect: Profound respiratory depression, apnoea,
+loss of consciousness, coma, death. Risk markedly increased
+in opioid-naive patients and with IV/IM administration.
+FDA Black Box Warning: Issued 2016 for concurrent opioid +
+benzodiazepine use.
+Management: Avoid concurrent use where possible. If combined,
+use lowest effective doses, limit duration, ensure naloxone
+available, educate patient and caregivers on warning signs.
+Increased monitoring required.
+
+───────────────────────────────────────────────────────────────────
+
+INTERACTION 003: ACE INHIBITOR + POTASSIUM SUPPLEMENTS
+Severity: SEVERE
+Drugs involved: Enalapril, lisinopril, ramipril, perindopril,
+captopril + Potassium chloride supplements, potassium-sparing
+diuretics (spironolactone, eplerenone, amiloride, triamterene)
+Mechanism: ACE inhibitors block angiotensin II, reducing
+aldosterone secretion, which normally promotes renal potassium
+excretion. Adding potassium supplements or potassium-sparing
+diuretics creates additive hyperkalemic effect — serum potassium
+can rise to dangerous levels (>6.0 mmol/L).
+Clinical Effect: Hyperkalaemia — muscle weakness, paralysis,
+cardiac conduction abnormalities, ventricular fibrillation,
+cardiac arrest. Risk highest in elderly, diabetic, and patients
+with renal impairment.
+Management: Avoid routine combination without clear indication.
+If combination necessary (e.g. spironolactone in heart failure):
+Monitor serum potassium and eGFR at baseline, 1 week, 4 weeks,
+then every 3–6 months. Target K+ < 5.5 mmol/L.
+Stop potassium supplement if K+ > 5.5 mmol/L.
+
+───────────────────────────────────────────────────────────────────
+
+INTERACTION 004: METFORMIN + IODINATED IV CONTRAST MEDIA
+Severity: SEVERE (conditional)
+Mechanism: Iodinated contrast agents can cause acute kidney injury.
+In patients with renal impairment, contrast-induced AKI reduces
+metformin clearance, causing accumulation and potentially fatal
+lactic acidosis.
+Clinical Effect: Lactic acidosis — potentially fatal.
+Symptoms: nausea, vomiting, abdominal pain, hyperventilation,
+altered consciousness, cardiovascular collapse.
+Management Protocol:
+  eGFR ≥ 60: No action required for most contrast studies.
+  eGFR 45–60: Hold metformin at time of procedure, restart
+  48 hours later only if renal function stable.
+  eGFR 30–45: Hold metformin 48 hours BEFORE and AFTER contrast.
+  eGFR < 30: Metformin contraindicated (not a contrast issue —
+  metformin is absolutely contraindicated at this eGFR level).
+
+───────────────────────────────────────────────────────────────────
+
+INTERACTION 005: ATENOLOL (BETA-BLOCKER) + VERAPAMIL / DILTIAZEM
+Severity: SEVERE
+Mechanism: Both drug classes depress cardiac conduction and
+contractility through different mechanisms. Beta-blockers reduce
+sympathetic drive to the SA and AV nodes. Non-dihydropyridine
+calcium channel blockers (verapamil, diltiazem) directly suppress
+SA and AV node conduction.
+Clinical Effect: Severe bradycardia, complete heart block
+(third degree AV block), asystole, acute heart failure.
+Risk highest with IV administration of either agent.
+Management: Oral combination requires cardiology supervision
+and ECG monitoring. IV combination is CONTRAINDICATED.
+Note: This interaction does NOT apply to dihydropyridine calcium
+channel blockers (amlodipine, nifedipine, felodipine) — those
+do not significantly affect cardiac conduction.
+
+═══════════════════════════════════════════════════════════════════
+MODERATE INTERACTIONS — REQUIRE MONITORING OR DOSE ADJUSTMENT
+═══════════════════════════════════════════════════════════════════
+
+INTERACTION 006: AMLODIPINE + SIMVASTATIN
+Severity: MODERATE
+Mechanism: Amlodipine inhibits CYP3A4, the primary enzyme
+responsible for simvastatin metabolism. This increases simvastatin
+plasma levels significantly.
+Clinical Effect: Myopathy, rhabdomyolysis (breakdown of muscle
+tissue causing acute kidney injury and dark urine).
+Management: Do not exceed simvastatin 20 mg/day when combined
+with amlodipine. Consider switching to pravastatin or rosuvastatin
+(not significantly metabolised by CYP3A4).
+
+───────────────────────────────────────────────────────────────────
+
+INTERACTION 007: AMOXICILLIN + WARFARIN
+Severity: MODERATE
+Mechanism: Amoxicillin reduces gut flora that produce
+Vitamin K2, lowering available vitamin K and potentiating
+warfarin's anticoagulant effect. Additionally, infections
+themselves often raise INR.
+Clinical Effect: Elevated INR, increased bleeding risk.
+Effect typically seen 3–7 days into antibiotic course.
+Management: Increase INR monitoring frequency during
+and for 1 week after antibiotic course. Anticipate possible
+warfarin dose reduction.
+
+───────────────────────────────────────────────────────────────────
+
+INTERACTION 008: METFORMIN + ALCOHOL
+Severity: MODERATE
+Mechanism: Chronic heavy alcohol use impairs hepatic lactate
+metabolism and can cause hepatic insufficiency, both of which
+increase lactic acidosis risk with metformin. Alcohol also
+potentiates the hypoglycaemic effect of metformin.
+Clinical Effect: Increased lactic acidosis risk with heavy
+regular drinking. Hypoglycaemia risk.
+Management: Advise patients to avoid heavy alcohol consumption.
+Occasional moderate drinking (1–2 units) is generally acceptable.
+Binge drinking is contraindicated.
+
+───────────────────────────────────────────────────────────────────
+
+INTERACTION 009: IBUPROFEN + ACE INHIBITOR + DIURETIC
+Severity: SEVERE (triple combination)
+This is known clinically as the "TRIPLE WHAMMY" interaction.
+Mechanism: NSAIDs reduce renal prostaglandin synthesis, causing
+renal vasoconstriction. ACE inhibitors reduce efferent
+arteriolar tone. Diuretics cause volume depletion. The three
+mechanisms together severely compromise renal perfusion.
+Clinical Effect: Acute kidney injury. Most dangerous in elderly,
+volume-depleted, and diabetic patients. Can cause irreversible
+renal failure requiring dialysis.
+Management: Avoid this three-drug combination entirely.
+If NSAID required in a patient on ACEi + diuretic: consider
+holding diuretic, ensure adequate hydration, monitor creatinine
+within 1 week.
+
+═══════════════════════════════════════════════════════════════════
+SAFE ALTERNATIVES REFERENCE
+═══════════════════════════════════════════════════════════════════
+
+SAFE ANALGESIC FOR ANTICOAGULATED PATIENTS:
+  Preferred: Paracetamol (acetaminophen) up to 2g/day
+  Acceptable: Codeine (with caution — constipation, limited efficacy)
+  Avoid: All NSAIDs (ibuprofen, naproxen, diclofenac, aspirin)
+  Avoid: High-dose aspirin (low-dose 75mg antiplatelet use is
+  separate clinical decision made by prescribing physician)
+
+SAFE STATIN WITH AMLODIPINE:
+  Preferred: Pravastatin (not CYP3A4 metabolised)
+  Preferred: Rosuvastatin (minimal CYP3A4 interaction)
+  Caution: Simvastatin — max 20mg/day
+  Avoid: Simvastatin > 20mg/day
+
+PREFERRED ANTIHYPERTENSIVE COMBINATIONS:
+  ACEi + Calcium channel blocker (amlodipine): SAFE and recommended
+  ACEi + Thiazide diuretic: SAFE and recommended
+  ACEi + Potassium-sparing diuretic: CAUTION — monitor K+
+  ACEi + Potassium supplement: CAUTION — monitor K+, avoid routine

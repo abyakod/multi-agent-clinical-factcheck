@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
-references/
+# references/ removed to allow article commit
